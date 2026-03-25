@@ -1,0 +1,11 @@
+node,threshold,opinion
+1,0.5,A,B,U
+2,0.4,B,C,U
+3,0.6,C,A,U
+4,0.5,U,U,U
+5,0.3,A,A,B
+6,0.5,B,U,C
+7,0.4,C,B,A
+8,0.6,U,A,U
+9,0.5,A,C,B
+10,0.4,B,A,U
